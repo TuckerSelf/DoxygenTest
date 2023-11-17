@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Tucker Self
+ * @date 2023-11-17
+ * @brief Supervisor cpp file
+ * 
+ * gives meaning to the functions of the Supervisor class
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

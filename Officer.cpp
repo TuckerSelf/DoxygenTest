@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Tucker Self
+ * @date 2023-11-17
+ * @brief Officer cpp file
+ * 
+ * gives meaning to the functions of the Officer class
+ */
+
 #include "Officer.h"
 #include <iostream>
 

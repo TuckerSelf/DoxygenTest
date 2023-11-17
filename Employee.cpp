@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Tucker Self
+ * @date 2023-11-17
+ * @brief Employee class cpp file
+ * 
+ * defines the functions for the Employees class
+ */
+
 #include "Employee.h"
 #include <iostream>
 
