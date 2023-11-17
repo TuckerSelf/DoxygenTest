@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Tucker Self
+ * @date 2023-11-17
+ * @brief main file for the Employee, Officer, and Supervisor classes
+ * 
+ * tests the Employee, Supervisor, and Officer classes
+ */
+
 
 #include <iostream>
 #include "Employee.h"
@@ -6,6 +15,16 @@
 
 using namespace std;
 
+
+/**
+ * runs tests on the Employee class and its related classes using a defined variable of that class
+ *
+ * @param Employee & e the Employee or related class variable
+ * @pre data is stored in the class variable
+ * @return void 
+ * @post prints the data of the class variable functions
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {
